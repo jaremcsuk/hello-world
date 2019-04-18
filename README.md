@@ -1,6 +1,8 @@
-# hello-world
+# hello-world!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 my first repository
 
-Ich habe diese Zeile hinzugefügt um Änderungen zu sehen!
+Ich habe diese Zeile hinzugefï¿½gt um ï¿½nderungen zu sehen!
 
 Added another 2nd line 
+
+changes made im Intelij
