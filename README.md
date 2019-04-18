@@ -1,4 +1,4 @@
 # hello-world
 my first repository
 
-I added this line to see the changes
+Ich habe diese Zeile hinzugefügt um Änderungen zu sehen!
